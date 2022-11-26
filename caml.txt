@@ -7,7 +7,7 @@ As XML element has to follow the correct schema so CAML too follow the schema sy
 ONET.XML itself a CAML query based and it playing the pivotal role in site provisioning in the SharePoint.
 
 What Is Caml, And Why Would You Use It?
-What Is Caml, And Why Would You Use It?
+
 
 CAML stands for Collaborative Application Markup Language. CAML is an XML-based language that provides data constructs that build up the SharePoint fields, view, and is used for table definition during site provisioning.
 CAML is responsible for rending data and the resulting HTML that is output to the user in SharePoint. CAML can be used for a variety of circumstances, overall is used to query, build and customize SharePoint-based sites.
