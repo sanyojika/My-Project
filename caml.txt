@@ -1,0 +1,28 @@
+CAML is a XML based language to interact with SharePoint and its functionalities.
+
+You can define,update and query the SharePoint stuffs like column,content type,site definition, web template and lists.
+
+As XML element has to follow the correct schema so CAML too follow the schema syntax to correctly construct the query that has been passed to SSOM (Server Side Object Model) or CSOM (Client Side Object Model)
+
+ONET.XML itself a CAML query based and it playing the pivotal role in site provisioning in the SharePoint.
+
+What Is Caml, And Why Would You Use It?
+
+CAML stands for Collaborative Application Markup Language. CAML is an XML-based language that provides data constructs that build up the SharePoint fields, view, and is used for table definition during site provisioning.
+CAML is responsible for rending data and the resulting HTML that is output to the user in SharePoint. CAML can be used for a variety of circumstances, overall is used to query, build and customize SharePoint-based sites.
+A general use would be building a CAML query in a SharePoint WebPart in order to retrieve values from a SharePoint list.
+
+What is CAML in SharePoint?
+
+In SharePoint CAML is very much helpful, CAML stands for Collaborative Markup Language. We use CAML in SharePoint to query and update SharePoint objects like list, library, columns, etc.
+
+SharePoint provides a CAML query builder that we can use to make the CAML query.
+
+Why do developers use CAML?
+If interviewers ask this question, they intend to recognise your knowledge of programming languages that a developer uses in SharePoint. For your response, consider expanding CAML and mentioning its base. Clearly define for what purposes a developer uses CAML and you may also mention its most common application.
+
+Example answer: 'Short for Collaborative Application Markup Language, CAML is a language that is based on Extensible Markup Language (XML). CAML offers data structures developers can use to define fields and views in SharePoint. Its many uses include site customisation, rendering and programming. When we render data with CAML, it delivers hypertext markup language (HTML) as output to the SharePoint user. Its most common use is retrieving values from a SharePoint list by creating a CAML query in a SharePoint web part.'
+
+In SharePoint CAML is very much helpful, CAML stands for Collaborative Markup Language. We use CAML in SharePoint to query and update SharePoint objects like list, library, columns, etc.
+
+SharePoint provides CAML query builder that we can use to make the CAML query. Check out the complete tutorial on SharePoint CAML query.
